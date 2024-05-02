@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "nombre_servicio": "Fisioterapia",
+            "descripcion_servicio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "precio": 255,
+            "categoria": "Terapeutico",
+            "estado_servicio": "Habilitado",
+            "fecha_creacion": "2023-04-24 23:31:47"
+        },
+        {
+            "id": "2",
+            "nombre_servicio": "Medicina general",
+            "descripcion_servicio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "precio": 100,
+            "categoria": "Atencion Primaria",
+            "estado_servicio": "Desahibilitado",
+            "fecha_creacion": "2023-04-24 23:31:47"
+        },
+        {
+            "id": "3",
+            "nombre_servicio": "Oftalmología",
+            "descripcion_servicio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "precio": 700,
+            "categoria": "Especialidad",
+            "estado_servicio": "Pendiente",
+            "fecha_creacion": "2023-04-24 23:31:47"
+        }
+    ]
+}
